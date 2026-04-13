@@ -1,0 +1,13 @@
+{
+  "name": "karpathy-guidelines",
+  "version": "1.0.0",
+  "type": "module",
+  "main": ".opencode/plugins/karpathy-guidelines.js",
+  "description": "Andrej Karpathy-inspired coding guidelines for LLMs - reduces common coding mistakes",
+  "keywords": ["opencode", "skills", "guidelines", "karpathy", "coding"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattiasmordhorst/karpathy-guidelines-opencode.git"
+  }
+}
