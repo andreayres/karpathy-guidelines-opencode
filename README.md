@@ -24,7 +24,7 @@ Four principles that directly address these issues:
 Install via OpenCode plugin manager:
 
 ```bash
-opencode plugin https://github.com/YOUR_USERNAME/karpathy-guidelines-opencode.git
+opencode plugin https://github.com/andreayres/karpathy-guidelines-opencode.git
 ```
 
 ## Usage
